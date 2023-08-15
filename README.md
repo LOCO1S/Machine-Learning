@@ -17,3 +17,8 @@ https://teachablemachine.withgoogle.com/models/FV9gFqpL6/
 
 ![220px-Esukare-ta](https://github.com/LOCO1S/Machine-Learning/assets/138608097/56cd364d-8f7d-4a94-a60a-97ec7d74e3d9)
 ![72466383](https://github.com/LOCO1S/Machine-Learning/assets/138608097/9eeff288-b1d5-4933-b3c2-6a934eb37f9d)
+
+#### "An evaluation was conducted using an image containing both elements."
+
+
+![Screenshot 2023-08-15 223612](https://github.com/LOCO1S/Machine-Learning/assets/138608097/739429bf-ef8d-4721-a4f7-2129dcf41b88)
